@@ -1,4 +1,4 @@
-﻿# Delibery_2019.11.01.01.00!
+﻿# Delivery_2019.11.01.01.00
 
 This is our first delivery for our Scalextric project with Digital Labs. This delivery took place after our first sprint of our core requirements by the client.
 
